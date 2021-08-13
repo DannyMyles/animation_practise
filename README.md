@@ -7,13 +7,14 @@ Danny Myles
 This is a website meant to help me undersand some basic Html and Css on my own. It is meant to help me gain experience as a developer
 
 ## Check out the website
-
+[]
 ### Setup/Installation Requirements
 Does not require installation
 
 ## Known Bugs
 The website is not active.
-Technologies Used
+
+## Technologies Used
 HTML  and CSS-- front-end
 
 ### Support and contact details
